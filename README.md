@@ -1,2 +1,2 @@
 # flappy_frog_WIN_CMD
-A naive game written in C++
+A naive Windows CMD game written in C++
